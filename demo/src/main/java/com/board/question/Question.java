@@ -1,4 +1,4 @@
-package com.board.demo;
+package com.board.question;
 
 import java.time.LocalDateTime;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.board.demo;
+package com.board.question;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
